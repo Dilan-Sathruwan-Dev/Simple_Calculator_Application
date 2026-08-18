@@ -60,18 +60,6 @@ You might be wondering, "What dark magic powers this incredible machine?" Good q
 
 You might think adding two numbers is easy. But let's look at the highly advanced, top-secret magic happening inside this app. Do not show this to the FBI, the CIA, or your math teacher. They will be too jealous.
 
-```mermaid
-graph TD;
-    User((You, The Hero)) -->|Types a number here| txt_Num_1[Magic Box 1]
-    User -->|Types another number here| txt_Num_2[Magic Box 2]
-    txt_Num_1 --> AddSubMulDiv{The Brain of the App (Very Squishy)}
-    txt_Num_2 --> AddSubMulDiv
-    AddSubMulDiv -->|Does the math like a boss| txt_Result[The Answer Box!]
-    AddSubMulDiv -->|Tries to Divide by Zero| BlackHole[Ends the World]
-    BlackHole -.-> MessageBox[App says: 'Please Stop That You Monster']
-    AddSubMulDiv -->|Smells a banana| CryingComputer[Computer Starts Crying]
-```
-
 ---
 
 ## 🚀 How to Use (For Super Beginners & Cavepeople)
